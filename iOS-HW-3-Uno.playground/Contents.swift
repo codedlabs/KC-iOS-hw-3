@@ -1,4 +1,4 @@
-
+import UIKit
 /*:
  # الواجب الثالث: لعبة UNO
  
@@ -28,8 +28,6 @@
 -- قم بإنشاء دالة بداخل الستركت Card باسم  `imageName`والتي تقوم بإرجاع اسم الصورة للكرت. قم بفتح المجلد Resources الموجود بداخل الplayground من النافذة اليسرى لرؤية طريقة تسمية الكرت
  ###### مثال:
  */
-
-import UIKit
 
 
 var blue_5 = UIImage(named: "Blue_5.png")
@@ -70,9 +68,6 @@ var wild_Draw = UIImage(named: "Wild_Draw.png")
   
  */
 
-//: قم بفتح النافذة اليسرى، قم بالوصول إلى Resources.
-//: ستجد جميع الصور التي تحتاجها للعبة الأونو.
-
 
 //: ---
 
@@ -80,6 +75,7 @@ var wild_Draw = UIImage(named: "Wild_Draw.png")
 
 
 
+/// قم بإنشاء الستركت هنا
 
 
 
@@ -88,8 +84,7 @@ var wild_Draw = UIImage(named: "Wild_Draw.png")
 
 
 
-
-// لا تقوم بإزالة الملاحظات إلا عند وصولك للمطلوب الثالث
+// لا تقم بإزالة الملاحظات إلا عند وصولك للمطلوب الثالث
 
 //
 //let randomCard = cards.randomElement()!
