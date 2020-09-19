@@ -22,7 +22,7 @@
 <div dir="ltr">
 
 ```Swift
-2. BMI = weight /(height* height)
+BMI = weight /(height* height)
 ```
  </div>
 
