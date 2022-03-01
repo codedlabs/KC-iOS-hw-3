@@ -77,5 +77,5 @@ var purchases : String   ->  var purchases : [String]
 
 #### كما هو موضح بالصورة
 <p align="center">
-<img src="/hw-3-bonus.gif" width="200" alt="alt_text" title="image_tooltip">
+<img src="/hw3-bonus.gif" width="200" alt="alt_text" title="image_tooltip">
 </p>
