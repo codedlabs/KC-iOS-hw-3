@@ -3,9 +3,12 @@
 ## نبذة عن الواجب
 
 
-### في هذا التطبيق يجب إدخال المصروفات وعرضها كما هو موضح بالصور.
+### في هذا التطبيق يجب إدخال المصروفات وعرضها كما هو موضح بالصورة.
 
 
+<p align="center">
+<img src="/hw-3.gif" width="200" alt="alt_text" title="image_tooltip">
+</p>
 
 ---
 
@@ -71,3 +74,8 @@ var purchases : String   ->  var purchases : [String]
 ```
 .opacity( )   -> شفافية للون
 ```
+
+#### كما هو موضح بالصورة
+<p align="center">
+<img src="/hw-3-bonus.gif" width="200" alt="alt_text" title="image_tooltip">
+</p>
